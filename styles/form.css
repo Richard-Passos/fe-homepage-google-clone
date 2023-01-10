@@ -1,0 +1,87 @@
+.sectionForm {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 3rem;
+  width: 100%;
+  padding-top: 10rem;
+}
+
+/* Logo */
+.containerLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 35%;
+}
+
+/* Form */
+#form {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 3rem;
+  width: 40%;
+}
+
+.formRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-radius: 2rem;
+}
+.formRow:hover {
+  box-shadow: 0 1px 0 1px rgba(200, 200, 200, 1);
+}
+
+.searchIcon {
+  font-size: 2rem;
+  border: 1px solid #ddd;
+  border-right: 0;
+  border-radius: 2rem 0 0 2rem;
+  padding: 1rem;
+  padding-right: 0;
+  cursor: pointer;
+  color: #999;
+}
+
+
+#form #q {
+  width: 100%;
+  padding: 1.2rem;
+  border-radius: 0 2rem 2rem 0;
+  border: 1px solid #ddd;
+  border-left: 0;
+}
+
+.rowBtns {
+  gap: 2rem;
+}
+.rowBtns:hover {
+  box-shadow: 0 0 0 0;
+}
+
+#btnSubmit, .anchorLucky {
+  padding: 0.8rem 1.5rem;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  font-size: 1.4rem;
+  color: #333;
+  background-color: transparent;
+}
+#btnSubmit:hover, .anchorLucky:hover {
+  cursor: pointer;
+  border-color: #ccc;
+}
+
+/* Btn Lucky */
+.anchorLucky {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 1.5rem;
+}
