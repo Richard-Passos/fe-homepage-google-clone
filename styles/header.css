@@ -2,7 +2,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  width: 100%;
+  width: 99%;
   max-width: 150rem;
   min-height: 6rem;
   font-size: 1.3rem;
@@ -55,4 +55,11 @@
 
 .noTextDecoration {
   text-decoration: none !important;
+}
+
+/* Medias Q */
+@media (max-width: 750px) {
+  #header {
+    justify-content: center;
+  }
 }
