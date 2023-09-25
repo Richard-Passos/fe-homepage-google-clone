@@ -1,25 +1,32 @@
-<h1 align="center">:file_cabinet: Clone Home-Page Google</h1>
+<h1 align="center">:file_cabinet: Clone Google</h1>
 
-## :memo: Descrição
-Desafio Pessoal para fazer um Clone da Home-Page do Google
+<br>
 
-## :wrench: Tecnologias utilizadas
-* HTML;
-* CSS;
-* JavaScript;
+## :memo: Description
+Google homepage.
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é recomendado acessar:
+<br>
+
+## :wrench: Technologies used
+* JavaScript
+* CSS
+* HTML
+
+<br>
+
+## :rocket: Run project
 ```
 https://richard-passos.github.io/Clone-Home-Page-Google/
 ```
 
-## :handshake: Colaboradores
+<br>
+
+## :handshake: Team
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Richard-Passos">
-        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="A boy with headphones holding a laptop."/><br>
         <sub>
           <b>Richard P</b>
         </sub>
@@ -28,5 +35,7 @@ https://richard-passos.github.io/Clone-Home-Page-Google/
   </tr>
 </table>
 
-## :dart: Status do projeto
-Finalizado
+<br>
+
+## :dart: Status
+Finished
