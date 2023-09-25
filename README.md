@@ -16,7 +16,7 @@ Google homepage.
 
 ## :rocket: Run project
 ```
-https://richard-passos.github.io/Clone-Home-Page-Google/
+https://richard-passos.github.io/fe-homepage-google-clone/
 ```
 
 <br>
